@@ -1,0 +1,25 @@
+/**
+ * Headings
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font: $header-font-weight #{$header-font-size}/#{$header-line-height} $header-font-family;
+}
+
+
+.site-title {
+  font-family: $header-font-family;
+}
+
+pre,
+code {
+  font-size: 0.9em;
+}
+
+code {
+  padding: 0px 3px;
+}
