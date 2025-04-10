@@ -388,3 +388,10 @@ $table-border-color: $lm-table-border-color;
   @include lm-highlight;
 
 }
+
+article.post img {
+    max-height: 90vh;
+    display: block;
+    margin: 0 auto;
+  }
+  
