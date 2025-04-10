@@ -1,8 +1,0 @@
----
-layout: post
-title: "test"
-date: 2025-02-09 18:47:00 +0900
-categories: travel
----
-
-I'm finally starting the travel diary I wanted to write this trip!

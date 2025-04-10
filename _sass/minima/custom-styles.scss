@@ -23,3 +23,9 @@ code {
 code {
   padding: 0px 3px;
 }
+
+article.post img {
+  max-height: 90vh;
+  display: block;
+  margin: 0 auto;
+}
