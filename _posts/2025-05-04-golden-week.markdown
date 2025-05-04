@@ -45,7 +45,7 @@ forgot my frustration when the staff member on duty came over and struck up a co
 I ended up having the longest impromptu chat I've had with anyone in Japanese. He spoke to
 me pretty simply and accommodatingly, but even so I was surprised at my ability to express
 myself and be understood in turn. We talked until he was alerted to the presence of
-customers waiting at the front desk. I felt very grateful for this kind gym employee who
-made an effort to reach out to me. Between this interaction, my catch-up with Ryusei,
-and my budding friendships at Yamasa, I'm starting to get the sense that my appetite to
-socialise is not merely being satisfied, it's being stoked.
+customers waiting to be served at the front desk. I felt very grateful for this kind gym
+employee who made an effort to reach out to me. Between this interaction, my catch-up with
+Ryusei, and my budding friendships at Yamasa, I'm starting to get the sense that my appetite
+to socialise is not merely being satisfied, it's being stoked.
