@@ -20,7 +20,7 @@ as I pulled into the station, and we set out unhurriedly into the surrounding ne
 Our first stop was a cosy old cafe where we had ogura toast: red bean paste spread on thick
 slices of toasted, buttered white bread. Here it was topped with a thick dollop of whipped
 cream and a little helping of homemade jam. It's a local specialty and it was delicious.
-After that we went to Noritake Garden. Noritake is a Japanese tableware company which also
+Afterwards we went to Noritake Garden. Noritake is a Japanese tableware company that also
 happens to have a long-established subsidiary in Australia. Their former factory grounds in
 central Nagoya now host a museum, art gallery, restaurant, shops and a well-tended garden.
 We browsed the art gallery and shops and walked around the garden, in which a line of big carp
@@ -37,8 +37,8 @@ finally successfully performing a new skill I'd been practicing every day for th
 Fingers crossed it'll begin to happen more and more often.
 
 Today I went bouldering at Play Mountain again. I've been going consistently twice a week
-like I did in Sydney. I've been a bit tired recently (not sleeping early enough) and I
-was a bit disappointed with my climbing today. Even though I managed to repeate a hard
+like I did in Sydney. However I've been tired recently (not sleeping early enough) and I
+was disappointed with my climbing today. Even though I managed to repeate a hard
 problem I topped last time, I wasted all my forearm strength on a different one which I
 failed to complete despite the fact it was supposed to be two grades easier. But I totally
 forgot my frustration when the staff member on duty came over and struck up a conversation.
