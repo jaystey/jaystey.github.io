@@ -37,7 +37,7 @@ finally successfully performing a new skill I'd been practicing every day for th
 Fingers crossed it'll begin to happen more and more often.
 
 Today I went bouldering at Play Mountain again. I've been going consistently twice a week
-like I did in Sydney. However I've been tired recently (not sleeping early enough) and I
+like I did in Sydney. However I'm quite tired at the moment (not sleeping early enough) and I
 was disappointed with my climbing today. Even though I managed to repeate a hard
 problem I topped last time, I wasted all my forearm strength on a different one which I
 failed to complete despite the fact it was supposed to be two grades easier. But I totally
