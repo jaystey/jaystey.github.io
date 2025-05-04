@@ -34,7 +34,7 @@ Japanese-language mode for a short period of time. My English-language internal 
 went offline and I was processing everything the teacher was saying without
 needing to translate it first. I was both shocked and excited: it felt like I was
 finally successfully performing a new skill I'd been practicing every day for the past month.
-Fingers crossed it'll happen more and more often going forward.
+Fingers crossed it'll begin to happen more and more often.
 
 Today I went bouldering at Play Mountain again. I've been going consistently twice a week
 like I did in Sydney. I've been a bit tired recently (not sleeping early enough) and I
