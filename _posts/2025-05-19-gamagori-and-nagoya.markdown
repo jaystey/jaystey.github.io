@@ -21,13 +21,13 @@ circumnavigated the island. It really was very pretty indeed, I wish I had taken
 better photos. There were jellyfish, butterflies, striking rock formations and verdant plants of
 all kinds.
 
-![Raptors flying against a blue sky.](/images/250505_gamagori-raptors.jpg)
+![Raptors flying against a blue sky.](/images/250505_gamagori-raptors.JPG)
 
 ![Takeshima and its bridge viewed from the Gamagori coast.](/images/250505_takeshima.jpg)
 
-![Tourists exploring Takeshima's shores.](/images/250505_takeshima-shore.jpg)
+![Tourists exploring Takeshima's shores.](/images/250505_takeshima-shore.JPG)
 
-![A butterfly visiting a flowering shrub on Takeshima.](/images/250505_takeshima-butterfly.jpg)
+![A butterfly visiting a flowering shrub on Takeshima.](/images/250505_takeshima-butterfly.JPG)
 
 We worked up a good thirst and returned to Gamagori, and eventually found a cafe where we
 could sit down to drink something. It was run by a very elderly Japanese couple out of what
